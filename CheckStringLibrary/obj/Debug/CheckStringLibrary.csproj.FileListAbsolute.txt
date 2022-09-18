@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\CheckStringLibrary\CheckStringLibrary\bin\Debug\CheckStringLibrary.dll
+C:\Users\Vlad\source\repos\CheckStringLibrary\CheckStringLibrary\bin\Debug\CheckStringLibrary.pdb
+C:\Users\Vlad\source\repos\CheckStringLibrary\CheckStringLibrary\obj\Debug\CheckStringLibrary.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\CheckStringLibrary\CheckStringLibrary\obj\Debug\CheckStringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\CheckStringLibrary\CheckStringLibrary\obj\Debug\CheckStringLibrary.dll
+C:\Users\Vlad\source\repos\CheckStringLibrary\CheckStringLibrary\obj\Debug\CheckStringLibrary.pdb
